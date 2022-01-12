@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void clicking(View view)
     {
-       btn.setText("Oh, yea, Ive been clicked");
+       btn.setText("Oh yeah, I've been clicked!");
     }
 }
